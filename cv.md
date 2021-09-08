@@ -31,34 +31,34 @@ GitHub:    [GitHub](https://github.com/NikitaF2105)
 ### Hard Skills ### 
 
 
- HTML5
+ - HTML5
 
 
- CSS3
+ = CSS3
 
 
- GitHub
+ = GitHub
 
 
- Bootstrap
+ = Bootstrap
 
 
- SASS
+ = SASS
 
 
- Gulp
+ = Gulp
 
 
- Adaptive / Responsive
+ = Adaptive / Responsive
 
 
- Avocode
+ = Avocode
 
 
- Figma
+ = Figma
 
 
- Pixel Perfect
+ = Pixel Perfect
 
 
 ---------------------------------------------------
@@ -66,34 +66,34 @@ GitHub:    [GitHub](https://github.com/NikitaF2105)
 ### Soft Skills ### 
 
 
- Time management
+ = Time management
 
 
- Fast learner
+ = Fast learner
 
 
- Adaptability
+ = Adaptability
 
 
- Result oriented
+ = Result oriented
 
 
- Self-organized
+ = Self-organized
 
 
- Communicative
+ = Communicative
 
 
- Eager to learn
+ = Eager to learn
 
 
- Punctual
+ = Punctual
 
 
- Organized
+ = Organized
 
 
- Hardworking
+ = Hardworking
 
 
 
